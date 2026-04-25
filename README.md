@@ -66,7 +66,3 @@ The dataset includes:
 - High priority tickets are resolved faster than low priority tickets
 - Certain support channels handle more traffic than others
 - Customer satisfaction varies across ticket types
-
----
-
-## 📁 Project Structure
